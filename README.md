@@ -2,7 +2,7 @@
 
 ## **Data Engineer (DE)**  
 
-Город [Санкт-Петербург] • Тел: [+7(911)159-41-77] • Email: [vi.bo7@ya.ru] • Telegram: [@vibo_7] • GitHub: [https://github.com/vi-bo]
+Город: [Санкт-Петербург] • Тел: [+7(911)159-41-77] • Email: [vi.bo7@ya.ru] • Telegram: [@vibo_7] • GitHub: [https://github.com/vi-bo]
 
 ---
 
