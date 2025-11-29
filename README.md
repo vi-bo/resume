@@ -21,7 +21,7 @@
 ---
 
 ## Навыки
-- **Основные:** SQL (plpgsql, win func), Python, Apache Airflow, Greenplum, Grafana, Git  
+- **Основные:** SQL (plpgsql, win func), Linux, Python, Apache Airflow, Greenplum, Grafana, Git  
 - **Учебный опыт:** Scala, Spark, Hadoop, Kafka, Docker, MLflow, GitLab
 
 ---
@@ -37,6 +37,7 @@ https://glowbyteconsulting.com
 - Разработка витрин данных  
 - Доработка фреймворка на Python  
 - Разработка системы мониторинга
+- Реализация алертинга (email, Telegram)
 
 ### ПАО “Россети” — главный специалист / аналитик данных, отдел стратегического развития сети  
 04.08.2015 – 26.07.2024  
