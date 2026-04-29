@@ -22,7 +22,7 @@
 ---
 
 ## Навыки
-- **Основные:** SQL (plpgsql, win func), Linux, Python, Apache Airflow, Greenplum, Grafana, Git  
+- **Основные:** SQL (plpgsql, win func), Linux, Python, Airflow, Greenplum, Grafana, Git  
 - **Учебный опыт:** Scala, Spark, Hadoop, Kafka, Docker, MLflow, GitLab
 
 ---
