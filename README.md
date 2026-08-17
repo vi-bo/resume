@@ -21,12 +21,12 @@
 
 **GlowByte Consulting** | DWH Developer / Data Engineer | 08.2024 – настоящее время 
 Проекты DWH в банковской сфере и ритейле (удаленно, Yandex Cloud).
--	High-Load миграция (20 млрд строк / 2 TB): загрузка из Oracle в Greenplum через PXF с predicate pushdown, Oracle hints и отказоустойчивым батчингом в Airflow;
--	Event-driven оркестрация: Airflow Datasets для триггера ETL по факту закрытия операционного дня в банке;
--	Streaming & CDC: Kafka-консьюмер и мониторинг лагов Debezium (Oracle - Kafka) в Grafana на JMX-метриках;
--	Metadata-driven автоматизация: фреймворк на PL/pgSQL для генерации DDL слоев STG/ODS из метаданных Oracle/PostgreSQL;
--	Data Governance: PoC OpenMetadata с интеграцией бизнес-глоссария и объектов Greenplum через REST API;
--	Data Observability: мониторинг пайплайнов и инфраструктуры через Grafana + API Yandex Cloud
+-	**High-Load миграция (20 млрд строк / 2 TB):** загрузка из Oracle в Greenplum через PXF с predicate pushdown, Oracle hints и отказоустойчивым батчингом в Airflow;
+-	**Event-driven оркестрация:** Airflow Datasets для триггера ETL по факту закрытия операционного дня в банке;
+-	**Streaming & CDC:** Kafka-консьюмер и мониторинг лагов Debezium (Oracle - Kafka) в Grafana на JMX-метриках;
+-	**Metadata-driven автоматизация:** фреймворк на PL/pgSQL для генерации DDL слоев STG/ODS из метаданных Oracle/PostgreSQL;
+-	**Data Governance:** PoC OpenMetadata с интеграцией бизнес-глоссария и объектов Greenplum через REST API;
+-	**Data Observability:** мониторинг пайплайнов и инфраструктуры через Grafana + API Yandex Cloud
 
 **ПАО «Россети»** | Главный специалист / Аналитик данных | 08.2015 – 07.2024
 -	Анализ данных, работа с SAP HANA, сопровождение БД по центрам питания;
