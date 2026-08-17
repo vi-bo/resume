@@ -19,8 +19,7 @@
 
 ## Опыт работы
 
-**GlowByte Consulting** | DWH Developer / Data Engineer | 08.2024 – настоящее время 
-Проекты DWH в банковской сфере и ритейле (удаленно, Yandex Cloud).
+**GlowByte Consulting** | DWH Developer / Data Engineer | 08.2024 – настоящее время | Проекты DWH в банковской сфере и ритейле (удаленно, Yandex Cloud).
 -	**High-Load миграция (20 млрд строк / 2 TB):** загрузка из Oracle в Greenplum через PXF с predicate pushdown, Oracle hints и отказоустойчивым батчингом в Airflow;
 -	**Event-driven оркестрация:** Airflow Datasets для триггера ETL по факту закрытия операционного дня в банке;
 -	**Streaming & CDC:** Kafka-консьюмер и мониторинг лагов Debezium (Oracle - Kafka) в Grafana на JMX-метриках;
