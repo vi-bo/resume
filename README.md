@@ -1,59 +1,55 @@
 # Виталий Бочаров
 
-## **Data Engineer (DE)**  
+## **Middle Data Engineer / DWH Developer**  
 
-Город: [Санкт-Петербург] • Тел: [+7(911)159-41-77] • Email: [vi.bo7@ya.ru] • Telegram: [@vibo_7] • GitHub: [https://github.com/vi-bo]
-
----
-
-## Образование
-Санкт-Петербургский политехнический университет Петра Великого, инженер по специальности "Электроэнергетические системы и сети"
-
----
-
-## Курсы и сертификаты
-- 2026 — Yandex Cloud: Архитектура и разработка DWH
-- 2025 — Яндекс Практикум: Инженер облачных сервисов  
-- 2025 — Yandex Cloud: Построение аналитической платформы  
-- 2024 — NewProLab: Apache Spark for Data Engineering  
-- 2024 — Yandex Cloud: Managed Greenplum  
-- 2023 — NewProLab: Data Engineer 12.0
+Санкт-Петербург (удаленно) | +7(911)159-41-77 | vi.bo7@ya.ru
 
 ---
 
 ## Навыки
-- **Основные:** SQL (plpgsql, win func), Linux, Python, Airflow, Greenplum, Grafana, Git  
-- **Учебный опыт:** Scala, Spark, Hadoop, Kafka, Docker, MLflow, GitLab
+- **Core:** SQL (Advanced, PL/pgSQL, Window Functions), Python, Linux, Git
+- **DWH & Databases:** Greenplum, PostgreSQL, Oracle
+- **Cloud:** Yandex Cloud (Managed Greenplum, Managed Airflow, API integration)
+- **Orchestration & DevOps:** Apache Airflow (Dynamic DAGs, Datasets), Docker, Grafana, GitLab
+- **Streaming & CDC:** Apache Kafka, Debezium, Kafka Connect, JMX monitoring
+- **Data Governance:** OpenMetadata, Data Catalog, Glossary
+- **Изучаю:** Apache Spark (PySpark), Scala
 
 ---
 
 ## Опыт работы
 
-### GlowByte Consulting — DWH dev. / DE  
-02.08.2024 – по настоящее время  
-https://glowbyteconsulting.com  
-Проекты корпоративного хранилища данных (DWH) в ритейле и банковской сфере:  
-- Миграция данных;
-- Загрузка данных из внешних источников;
-- Оптимизация и разработка SQL;  
-- Разработка и поддержка ETL/ELT;  
-- Разработка витрин данных;  
-- Доработка фреймворка на Python;  
-- Разработка системы мониторинга;
-- Подготовка документации
+**GlowByte Consulting** | DWH Developer / Data Engineer | 08.2024 – настоящее время 
+Проекты DWH в банковской сфере и ритейле (удаленно, Yandex Cloud).
+-	High-Load миграция (20 млрд строк / 2 TB): загрузка из Oracle в Greenplum через PXF с predicate pushdown, Oracle hints и отказоустойчивым батчингом в Airflow;
+-	Event-driven оркестрация: Airflow Datasets для триггера ETL по факту закрытия операционного дня в банке;
+-	Streaming & CDC: Kafka-консьюмер и мониторинг лагов Debezium (Oracle - Kafka) в Grafana на JMX-метриках;
+-	Metadata-driven автоматизация: фреймворк на PL/pgSQL для генерации DDL слоев STG/ODS из метаданных Oracle/PostgreSQL;
+-	Data Governance: PoC OpenMetadata с интеграцией бизнес-глоссария и объектов Greenplum через REST API;
+-	Data Observability: мониторинг пайплайнов и инфраструктуры через Grafana + API Yandex Cloud
 
-### ПАО “Россети” — главный специалист / аналитик данных, отдел стратегического развития сети  
-04.08.2015 – 26.07.2024  
-https://www.rosseti.ru  
-- Анализ и систематизация данных по потребителям  
-- Анализ информации в БД Компании, составление отчетности  
-- Сопровождение БД по центрам питания
+**ПАО «Россети»** | Главный специалист / Аналитик данных | 08.2015 – 07.2024
+-	Анализ данных, работа с SAP HANA, сопровождение БД по центрам питания;
+-	Самостоятельная разработка Python-скриптов для анализа изменений в данных; 
+-	Награды: Благодарность Правительства СПб, Почетная грамота ПАО «Россети»
+
+---
+
+## Образование
+- СПбПУ Петра Великого | Инженер, «Электроэнергетические системы и сети»
+
+---
+
+## Курсы
+-	Yandex Cloud: Архитектура и разработка DWH (2026), Managed Airflow (2026), Managed Greenplum (2024);
+-	Apache Spark for Data Engineering (NewProLab, 2024);
+-	Яндекс Практикум: Инженер облачных сервисов (2025)
 
 ---
 
 ## О себе
-Работал с большими объёмами данных в сфере электроэнергетики, награждён благодарностью профильного комитета Правительства Санкт‑Петербурга за разработку схемы развития электроэнергетики и почётной грамотой ПАО «Россети». Целенаправленно изучаю новые технологии и методы обработки данных для повышения эффективности. Пройденные курсы и сертификаты доступны по [ссылке](https://disk.yandex.ru/d/cB5YXaihY9fPbA).
+Инженер данных с опытом построения корпоративных хранилищ в банковском секторе. Специализируюсь на высоконагруженных миграциях, event-driven оркестрации и CDC. До перехода в DE 9 лет работал аналитиком данных в ПАО «Россети», где получил глубокую экспертизу в работе с большими объемами данных, после чего целенаправленно сменил фокус на Data Engineering.
 
 ---
 
-*Последнее обновление: 29.04.2026*
+*Последнее обновление: 17.08.2026*
